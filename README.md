@@ -63,7 +63,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 -
 
-### Gender an Equality <a name="gender"></a>
+### Gender and Equality <a name="gender"></a>
 
 -
 
