@@ -81,7 +81,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Data <a name="data"></a>
 
--
+- SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
+- SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
+- Asian Transport Outlook: https://asiantransportoutlook.com/ 
+
 
 
 Disclaimer: Findings, interpretations and conclusions expressed in this document are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of documents (plans, strategies, etc), companies, academia or other stakeholders (or their logos, contact details or other information) in this documents doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to data, information, offers and proposals.
